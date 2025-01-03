@@ -6,4 +6,6 @@
 
   e-mail : preeyada.k@ku.th
 
-  #### my work (🥞) \
+---
+  #### my work (🥞) 
+---
