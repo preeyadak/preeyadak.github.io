@@ -1,15 +1,15 @@
 # qwyqwys (✿ᴗ͈ˬᴗ͈) ⁾⁾
 
 ---
-  #### info 🐈 
+#### info 🐈 
 ---
-  name : preeyada kasetpibaln \
-  nickname : pim
+name : preeyada kasetpibaln \
+nickname : pim
   
-  ![Profile](profile/profile_icon.png)
+![Profile](profile/profile_icon.png)
 
-  e-mail : preeyada.k@ku.th
+e-mail : preeyada.k@ku.th
 
 ---
-  #### my work (🥞) 
+#### my work (🥞) 
 ---
