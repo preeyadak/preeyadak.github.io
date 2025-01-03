@@ -1,7 +1,7 @@
 # qwyqwys (✿ᴗ͈ˬᴗ͈) ⁾⁾
 
 ---
-  #### little-info 🐈 
+  #### info 🐈 
 ---
   name : preeyada kasetpibaln \
   nickname : pim
