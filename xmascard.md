@@ -1,4 +1,5 @@
-* merry christmas! 🎅🏻
-* 
+# merry christmas! 🎅🏻
+--- 
+
 ![card](pic/xmas.png)
 
