@@ -1,4 +1,5 @@
 # qwyqwys (✿ᴗ͈ˬᴗ͈) ⁾⁾
+* name : preeyada kasetpibaln
+* nickname : pim
 ![Profile](profile/profile_icon.png)
-* Preeyada Kasetpibaln ( PIM )
-* 6530200690
+
