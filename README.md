@@ -14,4 +14,5 @@ e-mail : preeyada.k@ku.th
 #### my work (🥞) 
 ---
 
+* [e-card](xmascard.md)
 * data quality [integrity](integrity.md)
