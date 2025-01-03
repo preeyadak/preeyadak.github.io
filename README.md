@@ -6,7 +6,7 @@
 name : preeyada kasetpibaln \
 nickname : pim
   
-![Profile](profile/profile_icon.png)
+![Profile](pic/profile_icon.png)
 
 e-mail : preeyada.k@ku.th
 
