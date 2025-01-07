@@ -14,6 +14,6 @@ e-mail : preeyada.k@ku.th
 #### my work (🥞) 
 ---
 
-* [glossary](leastprivilege.md)
+* [glossary](leastprivilege.md) | least privilege
 * 🎄 [christmas card](xmascard.md)
 * data quality [integrity](integrity.md)
