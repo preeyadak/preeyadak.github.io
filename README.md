@@ -18,3 +18,4 @@ e-mail : preeyada.k@ku.th
 * 🎄 [christmas card](xmascard.md)
 * data quality - [integrity](integrity.md)
 * [boardgame](boardgame.md) 📟
+* 12.6.1 [SSRF Protection] 
