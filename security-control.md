@@ -9,10 +9,10 @@
 * my phone
 
 ### Type of Security control
-* detective Control 
+* detective control 
 
 ### Control Functions
-* detective Control 
+* monitoring
 
 ---
 
