@@ -17,4 +17,4 @@ e-mail : preeyada.k@ku.th
 * glossary - [least privilege](leastprivilege.md)
 * 🎄 [christmas card](xmascard.md)
 * data quality - [integrity](integrity.md)
-* boardgame - [boardgame](boardgame.md)
+* [boardgame](boardgame.md) 📟
