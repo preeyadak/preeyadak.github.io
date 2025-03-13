@@ -19,3 +19,4 @@ e-mail : preeyada.k@ku.th
 * data quality - [integrity](integrity.md)
 * [boardgame](boardgame.md) 📟
 * 12.6.1 [SSRF Protection](security-requirements.md)
+* 🎈 [security control](security-control.md)
