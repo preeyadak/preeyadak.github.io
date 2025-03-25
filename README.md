@@ -14,9 +14,9 @@ e-mail : preeyada.k@ku.th
 #### my work (🥞) 
 ---
 
-* glossary - [least privilege](leastprivilege.md)
-* 🎄 [christmas card](xmascard.md)
-* data quality - [integrity](integrity.md)
-* [boardgame](boardgame.md) 📟
-* 12.6.1 [SSRF Protection](security-requirements.md)
-* 🎈 [security control](security-control.md)
+* glossary - [least privilege](leastprivilege)
+* 🎄 [christmas card](xmascard)
+* data quality - [integrity](integrity)
+* [boardgame](boardgame) 📟
+* 12.6.1 [SSRF Protection](security-requirements)
+* 🎈 [security control](security-control)
